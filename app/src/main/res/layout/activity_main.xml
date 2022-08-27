@@ -59,6 +59,7 @@
             android:layout_marginTop="20dp"
             android:text="Login me" />
     </RelativeLayout>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -67,6 +68,6 @@
         android:layout_marginBottom="20dp"
         android:drawableLeft="@drawable/lostpw"
         android:gravity="center"
-        android:text="\t\t\tLost password"
+        android:text="\t\t\tLost password ?"
         android:textSize="20dp" />
 </RelativeLayout>

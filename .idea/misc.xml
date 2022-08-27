@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Long/AndroidStudioProjects/LTTDT6Tuan1/app/src/main/res/drawable/vien.xml" value="0.135" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/LTTDT6Tuan1/app/src/main/res/drawable/vientron.xml" value="0.135" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/LTTDT6Tuan1/app/src/main/res/layout/activity_main.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/LTTDT6Tuan1/app/src/main/res/layout/activity_profile2.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/Long/AndroidStudioProjects/Login/app/src/main/res/drawable/vien.xml" value="0.1995" />
         <entry key="..\:/Users/Long/AndroidStudioProjects/Login/app/src/main/res/drawable/vientron.xml" value="0.1995" />
         <entry key="..\:/Users/Long/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.22" />
